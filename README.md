@@ -1,2 +1,2 @@
 # first-repo
-use the openai api to speech-to-text
+use the openai api to commucation
