@@ -1,2 +1,2 @@
 # first-repo
-use the openai api to commucation
+use the openai api to communication
