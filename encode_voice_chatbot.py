@@ -26,7 +26,7 @@ encoded_code = encode_to_decimal(python_code)
 # 파일에 십진수 표시 저장
 write_file('encoded_voice_chatbot.txt', encoded_code)
 
-print("파이썬 코드가 십진법으로 변환되어 encoded_voice_chatbot.txt에 저장되었습니다")
+print("파이썬 코드가 십진수로 변환되어 encoded_voice_chatbot.txt 에 저장되었습니다")
 
 # 디코딩 과정
 # 파일에서 십진수 문자열 읽기
